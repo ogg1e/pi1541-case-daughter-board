@@ -1,4 +1,5 @@
 # pi1541-case-daughter-board
+image:
 ![alt text](https://raw.githubusercontent.com/ogg1e/pi1541-case-daughter-board/master/board.png)
 
 Makes it a little easier to wire and install the buttons/leds.
